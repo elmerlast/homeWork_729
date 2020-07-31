@@ -453,7 +453,12 @@ a:hover, a:active, a:focus {
    Blog section              
 -----------------------------------------*/
 
-.blog-post-thumb {
+#navlast {
+  margin-top: 3px;
+}
+
+
+/* .blog-post-thumb {
   border-bottom: 1px solid #f0f0f0;
   padding-top: 32px;
   padding-bottom: 62px;
@@ -606,7 +611,7 @@ a:hover, a:active, a:focus {
   background: #333;
   border-color: transparent;
   color: #ffffff;
-}
+} */
 
 
 
